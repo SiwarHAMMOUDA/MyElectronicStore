@@ -1,0 +1,30 @@
+div.cadre{
+	border: 1px dotted gray;
+	border-radius:10px;
+	padding: 10px;
+	margin: 10px;
+}
+table.tab1 th{
+	border: 1px dotted gray;
+	background: pink;
+	padding: 5px;
+}
+table.tab1 td{
+	border: 1px dotted gray;
+	background: white;
+	padding: 5px;
+}
+.errors
+{
+	color:red;
+}
+#monForm {
+   position:absolute;
+   top:50%;
+   left:50%;
+   width:500px; /* A toi de donner la bonne largeur */
+   height:300px; /* A toi de donner la bonne hauteur */
+   margin-left:-150px; /* -largeur/2 */
+   margin-top:-100px; /* -hauteur/2 */
+   background:#c0c0c0;
+}
