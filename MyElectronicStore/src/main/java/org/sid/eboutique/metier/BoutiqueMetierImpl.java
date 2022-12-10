@@ -120,5 +120,9 @@ public class BoutiqueMetierImpl  implements IAdminCategoriesMetier{
 		// TODO Auto-generated method stub
 		dao.attribuerRole(r, userID);
 	}
+	public void(String a)
+	{
+		System.out.println(a);
+	}
 
 }
